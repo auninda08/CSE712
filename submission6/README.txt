@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=RvCBzhhydNk
 https://www.youtube.com/watch?v=OR0wfP2FD3c
 https://www.youtube.com/watch?v=vz_xuxYS2PM
 https://www.youtube.com/watch?v=G23ef2D-qrY&t=503s
+https://www.youtube.com/watch?v=J2zquYPJbWY
 
 did something else
 https://e-space.mmu.ac.uk/626898/1/HateClassify%20-%20A%20Service%20Framework%20for%20Hate%20Speech%20Identication%20on%20Social%20Media.pdf
